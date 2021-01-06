@@ -1,1 +1,1 @@
-# git_project
+# HAD_PRACTICAL 1
